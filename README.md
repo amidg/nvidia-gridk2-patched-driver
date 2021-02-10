@@ -12,3 +12,8 @@ Tested OS:
 
 How to convert Tesla K10 to Grid K2?
 https://www.eevblog.com/forum/general-computing/hacking-nvidia-cards-into-their-professional-counterparts/1025/
+
+Both vBIOS chips should have sequence of resistors:
+~40k - none - ~40k - none
+
+I used whatever I had in my scrap box with size of 0402: ~43k - none - ~39k - none
