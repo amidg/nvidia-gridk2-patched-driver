@@ -1,4 +1,4 @@
-# nvidia-gridk2-patched-driver
+# nvidia-gridk2-patch
 This repository contains Nvidia Linux 64-bit patched vBIOS .rom file to be used along with 367 legacy driver for the new linux distros (e.g. Ubuntu 20.04). I use this driver in my homelab setup for remote gaming and GPU-accelerated applications. 
 
 This driver supports:
